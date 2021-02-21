@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
     <Header />
-    <p>Testing CICD1</p>
     </div>
   );
 }
