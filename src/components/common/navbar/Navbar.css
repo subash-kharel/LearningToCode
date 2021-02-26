@@ -1,6 +1,7 @@
 .navbar {
     display: flex;
     flex-direction: row;
+    color:red;
   }
   
   .navbar-item {
